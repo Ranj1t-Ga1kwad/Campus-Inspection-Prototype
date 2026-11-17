@@ -1,6 +1,12 @@
-# AI-Powered Campus Inspection Prototype
+<p align="center">
+  <img src="Screenshots/project-banner.png"
+       width="100%"
+       alt="Campus Inspection Prototype">
+</p>
 
-An AI-powered campus inspection prototype integrating ESP32-CAM, YOLO and OpenCV for real-time visual monitoring of college campus surroundings.
+# Campus Inspection Prototype
+
+A Campus inspection prototype integrating ESP32-CAM, YOLO and OpenCV for real-time visual monitoring of college campus surroundings.
 
 The project focuses on detecting selected waste categories, potholes and manholes through live video analysis, with the broader objective of identifying campus cleanliness issues, infrastructure damage, cracks and other potential vulnerabilities.
 
